@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ashraf-abo-shanab" alt="mohamed-ashraf-abo-shanab" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/moash0x11jr" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/moash0x11jr?logo=twitter&style=for-the-badge" alt="https://twitter.com/moash0x11jr" /></a> </p>
+
 
 - courses **ejptv1,web application pentesting,IT Technical support**
 
